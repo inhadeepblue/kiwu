@@ -11,3 +11,4 @@ if response.status_code == 200:
     print(response.text.strip())
 else:
     print(f"상태 코드 : {response.status_code}")
+#202308021 이예원
