@@ -1,6 +1,6 @@
 import requests
 
-url = f"https://wttr.in/jeju?format=%C+%t"
+url = f"https://wttr.in/london?format=3"
 # url = f"https://kin.naver.com/park"
 # url = f"https://wttr.in/incheon?&n&Q"
 # url = f"https://wttr.in/incheon?&0&Q"
